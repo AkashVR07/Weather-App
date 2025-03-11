@@ -27,13 +27,13 @@ Before running the app, ensure you have the following installed:
 * pyttsx3: For text-to-speech functionality.
 
 # Example Output
-Upon entering "New York":
-City: New York
-Temperature: 15°C
-Condition: Partly cloudy
-Humidity: 60%
-Wind Speed: 12 km/h
-The app will also narrate: __"The weather in New York is partly cloudy. The temperature is 15 degrees Celsius, with 60 percent humidity, and wind speed of 12 kilometers per hour."__
+<br>Upon entering "New York":</br>
+<br>City: New York<br>
+<br>Temperature: 15°C<br>
+<br>Condition: Partly cloudy<br>
+<br>Humidity: 60%<br>
+<br>Wind Speed: 12 km/h<br>
+The app will also narrate: **"The weather in New York is partly cloudy. The temperature is 15 degrees Celsius, with 60 percent humidity, and wind speed of 12 kilometers per hour."**
 
 # Note
 * The app requires an active internet connection to fetch weather data.
