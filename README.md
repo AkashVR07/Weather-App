@@ -27,16 +27,17 @@ Before running the app, ensure you have the following installed:
 * ```pyttsx3```: For text-to-speech functionality.
 
 # Example Output
-Upon entering "New York":\
-City: New York\
-Temperature: 15°C\
+Upon entering "Bangalore":\
+City: Bangalore\
+Temperature: 28.2°C\
 Condition: Partly cloudy\
-Humidity: 60%\
-Wind Speed: 12 km/h\
-The app will also narrate: ***"The weather in New York is partly cloudy. The temperature is 15 degrees Celsius, with 60 percent humidity, and wind speed of 12 kilometers per hour."***
+Humidity: 58%\
+Wind Speed: 15.8 km/h\
+The app will also narrate: ***"The weather in Bangalore is partly cloudy. The temperature is 28.2 degrees Celsius, with 58 percent humidity, and wind speed of 15.8 kilometers per hour."***
 
 # Snapshot
-<img width="918" height="656" alt="Screenshot" src="https://github.com/user-attachments/assets/9875d067-45cf-4653-b830-79e43e4bddc3" />
+<img width="1001" height="788" alt="Snapshot" src="https://github.com/user-attachments/assets/79853623-facf-41f7-b0fb-0e5f65be7c24" />
+
 
 # Note
 * The app requires an active internet connection to fetch weather data.
