@@ -26,6 +26,9 @@ Before running the app, ensure you have the following installed:
 * ```requests```: To fetch weather data from the WeatherAPI.
 * ```pyttsx3```: For text-to-speech functionality.
 
+# Snapshot
+<img width="1001" height="788" alt="Snapshot" src="https://github.com/user-attachments/assets/79853623-facf-41f7-b0fb-0e5f65be7c24" />
+
 # Example Output
 Upon entering "Bangalore":\
 City: Bangalore\
@@ -35,15 +38,4 @@ Humidity: 58%\
 Wind Speed: 15.8 km/h\
 The app will also narrate: ***"The weather in Bangalore is partly cloudy. The temperature is 28.2 degrees Celsius, with 58 percent humidity, and wind speed of 15.8 kilometers per hour."***
 
-# Snapshot
-<img width="1001" height="788" alt="Snapshot" src="https://github.com/user-attachments/assets/79853623-facf-41f7-b0fb-0e5f65be7c24" />
 
-
-# Note
-* The app requires an active internet connection to fetch weather data.
-
-# License
-This project is licensed under the [MIT License](https://opensource.org/license/MIT).
-
-# Authors
-[Akash VR](https://github.com/AkashVR07)
